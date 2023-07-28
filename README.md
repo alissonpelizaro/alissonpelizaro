@@ -1,8 +1,6 @@
-# Alisson - Full Stack Developer and Python Enthusiast
-
 ### Hi there! 👋
 
-I'm Alisson, a Brazilian coder. Welcome to my GitHub profile!
+I'm Alisson, a Brazilian Full Stack Developer and Python Enthusiast. Welcome to my GitHub profile!
 
 - 🔭 I’m currently working at TOTVS Labs by TexoIT, where I contribute to developing innovative solutions.
 - 🌱 I’m constantly learning and practicing my skills, particularly in the field of cloud technologies.
