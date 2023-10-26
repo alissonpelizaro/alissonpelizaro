@@ -14,7 +14,7 @@ I'm Alisson, a Brazilian Full Stack Developer and Python Enthusiast. Welcome to 
 - 💻 I'm experienced in building great things with:
 
     - Python: Flask, Chalice, Goblet.
-    - JavaScript: Node.js, Express.js, React, Vue.js.
+    - JavaScript: Node.js, React, Vue.js.
     - PHP: Laravel, CodeIgniter.
     - TypeScript.
     
