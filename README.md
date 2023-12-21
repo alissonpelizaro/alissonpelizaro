@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Welcome to my GitHub profile
 
 I'm Alisson, a Brazilian Full Stack Developer and Python Enthusiast. Welcome to my GitHub profile!
 
