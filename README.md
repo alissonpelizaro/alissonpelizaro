@@ -18,10 +18,11 @@ I'm Alisson, a Brazilian Full Stack Developer and Python Enthusiast. Welcome to 
     - PHP: Laravel, CodeIgniter.
     - TypeScript.
     
-- 🧪 I usually work with the following technologies:
+- 🧪 I've worked with the following technologies:
 
     - Docker: Containerization for seamless development and deployment.
     - AWS: As my primary cloud provider for scalable and reliable applications.
+    - Google Cloud Platform: Deploying great apps to the Google cloud provider.
     - MySQL and PostgreSQL: Building robust databases for data storage.
     - Redis: In-memory caching to optimize performance.
     - PyTest and PHPUnit: Writing clean and efficient tests.
