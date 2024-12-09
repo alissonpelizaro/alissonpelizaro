@@ -2,7 +2,7 @@
 
 I'm Alisson, a Brazilian Full Stack Developer and Python Enthusiast. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working at TOTVS, where I contribute to developing innovative solutions.
+- 🔭 I’m currently working at TOTVS, where I contribute to developing APIs around Generative AI.
 - 🌱 I’m constantly learning and practicing my skills, particularly in the field of cloud technologies.
 - 💬 Let's have a chat about NLP, GenAI, Python, and the latest trends in cloud technology.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/alisson-pelizaro/).
@@ -10,11 +10,11 @@ I'm Alisson, a Brazilian Full Stack Developer and Python Enthusiast. Welcome to 
 
 ## Interests and Technologies
 
-- 🤖 NLP projects grab my attention. I love exploring the intersection of language and technology.
+- 🤖 Generative AI projects grab my attention. I love exploring the intersection of language and technology.
 - 💻 I'm experienced in building great things with:
 
-    - Python: Flask, Chalice, Goblet.
-    - JavaScript: Node.js, Vue.js.
+    - Python: Flask, Chalice, Goblet, FastAPI.
+    - JavaScript: Node.js, Vue.js, Angular, Next.js.
     - PHP: Laravel, CodeIgniter.
     
 - 🧪 I've worked with the following technologies:
