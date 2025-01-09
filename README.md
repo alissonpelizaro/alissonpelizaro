@@ -13,7 +13,7 @@ I'm Alisson, a Brazilian Full Stack Developer and Python Enthusiast. Welcome to 
 - 🤖 Generative AI projects grab my attention. I love exploring the intersection of language and technology.
 - 💻 I'm experienced in building great things with:
 
-    - Python: Flask, Chalice, Goblet, FastAPI.
+    - Python: Flask, Chalice, FastAPI.
     - JavaScript: Node.js, Vue.js, Angular, Next.js.
     - PHP: Laravel, CodeIgniter.
     
