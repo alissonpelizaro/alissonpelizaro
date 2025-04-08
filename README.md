@@ -1,39 +1,36 @@
-### HI!
+# Welcome!
 
-I'm Alisson, a Brazilian Full Stack Developer and Python Enthusiast. Welcome to my GitHub profile!
+I'm Alisson, a Brazilian Full Stack Developer and Python Enthusiast.
 
-- 🔭 I’m currently working at TOTVS, where I contribute to developing APIs around Generative AI.
-- 🌱 I’m constantly learning and practicing my skills, particularly in the field of cloud technologies.
-- 💬 Let's have a chat about NLP, GenAI, Python, and the latest trends in cloud technology.
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/alisson-pelizaro/).
-- 🗣 We can communicate in Portuguese 🇧🇷 or English 🇺🇸.
+I enjoy building things that solve real problems, especially when it involves APIs, automation, or something cool with AI. I'm always up for learning something new and turning ideas into code.
 
-## Interests and Technologies
+Currently working with:
+- Generative AI and NLP
+- Backend development with Python (FastAPI, Flask, Chalice)
+- Frontend using Vue.js, Angular and a bit of Next.js
+- DevOps practices with Docker, GitHub Actions, and Terraform
+- Cloud platforms (GCP, AWS, Azure)
 
-- 🤖 Generative AI projects grab my attention. I love exploring the intersection of language and technology.
-- 💻 I'm experienced in building great things with:
+---
 
-    - Python: Flask, Chalice, FastAPI.
-    - JavaScript: Node.js, Vue.js, Angular, Next.js.
-    - PHP: Laravel, CodeIgniter.
-    
-- 🧪 I've worked with the following technologies:
+### What I'm into lately:
+- Generative AI (LLMs, RAG, agents... let's talk about it)
+- Scalable backend services
+- Cloud-native solutions
+- Clean architecture and test-driven development
+- Sharing knowledge and building community
 
-    - Docker: Containerization for seamless development and deployment.
-    - AWS: As my primary cloud provider for scalable and reliable applications.
-    - Google Cloud Platform: Deploying great apps to the Google cloud provider.
-    - MySQL and PostgreSQL: Building robust databases for data storage.
-    - Redis: In-memory caching to optimize performance.
-    - PyTest and PHPUnit: Writing clean and efficient tests.
-    - GitHub Actions: Automating deployment processes.
-    - Terraform: Infrastructure as Code for managing cloud resources.
-    - Azure DevOps: Streamlining development workflows.
-    - Dialogflow: Building conversational AI agents.
-    - Robot: Framework for acceptance testing.
-    - DynamoDB: NoSQL database for fast and scalable applications.
-    - Asterisk: Open-source PBX system for communications.
+---
 
-## Get in Touch
+### Tech I work with regularly:
+- **Languages:** Python, JavaScript, PHP
+- **Frameworks & Tools:** FastAPI, Flask, Laravel, Node.js, Vue.js, Angular, Next.js
+- **Cloud & Infra:** Google Cloud, AWS, Azure, Docker, Terraform
+- **Databases:** PostgreSQL, MySQL, Redis, DynamoDB
+- **Testing & CI/CD:** PyTest, PHPUnit, Robot Framework, GitHub Actions
+- **Extras:** Dialogflow, Asterisk, OpenAI, LangChain, LlamaIndex
 
-I'm always open to new collaborations. You can reach me on [LinkedIn](https://www.linkedin.com/in/alisson-pelizaro) to connect and discuss potential projects or ideas.
-Let's build amazing things together!
+---
+
+### Let’s connect
+You can reach me on [LinkedIn](https://www.linkedin.com/in/alisson-pelizaro/).
